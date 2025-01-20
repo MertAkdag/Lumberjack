@@ -1,6 +1,3 @@
 # Lumberjack
  
- keystore şifresi: marasli123AK
- 
- 
-https://play.google.com/store/apps/details?id=com.Foressagames.Lumberjack
+Unity ile yapılmış dotween teknolojisini kullanmayı öğrenmek adına geliştirilmiş ufak çaplı öğrenim projesidir.
